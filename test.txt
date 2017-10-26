@@ -1,4 +1,4 @@
-hello
+﻿hello
 czekam i czekam
 a Ciebie nie ma
 
@@ -8,3 +8,5 @@ na wysokim drzewie
 
 branoc Misiu <3
 no słodkich snów ;*
+
+witam witam, to bede odwracac
